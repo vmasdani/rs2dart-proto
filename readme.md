@@ -1,4 +1,4 @@
-#rs2dart-proto
+# rs2dart-proto
 
 Rust Struct to Dart class converter using [proc-macro](https://doc.rust-lang.org/reference/procedural-macros.html) and [syn](https://github.com/dtolnay/syn).
 
