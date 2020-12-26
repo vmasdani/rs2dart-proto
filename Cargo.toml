@@ -1,5 +1,5 @@
 [package]
-name = "rs2dart"
+name = "rs2dart-proto"
 version = "0.1.0"
 authors = ["vmasdani <valianmasdani@gmail.com>"]
 edition = "2018"
