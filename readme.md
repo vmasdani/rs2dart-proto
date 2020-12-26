@@ -7,7 +7,7 @@ My attempt to learn procedural macros in rust. I haven't seen any rust to dart c
 By running `cargo run`, the code will generate a file called `model.dart` which will be generated if you use the `#[gen_dart]` procedural macro attribute on a struct. (Example in `src/main.rs`). 
 
 It transforms something like this:
-```rs
+```rust
 #[gen_dart]
 struct MyTestStruct {
     id: i32,
